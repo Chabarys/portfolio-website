@@ -277,7 +277,7 @@ section {
 }
 
 .hab-3::after {
-    width: 40%;
+    width: 70%;
 }
 
 .hab-4::after {
@@ -285,11 +285,11 @@ section {
 }
 
 .hab-5::after {
-    width: 90%;
+    width: 100%;
 }
 
 .hab-6::after {
-    width: 50%;
+    width: 80%;
 }
 
 section.dark {
