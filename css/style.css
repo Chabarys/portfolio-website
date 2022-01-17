@@ -269,7 +269,7 @@ section {
 
 /* Barra de proficiência nas habilidades */
 .hab-1::after {
-    width: 90%;
+    width: 100%;
 }
 
 .hab-2::after {
@@ -277,7 +277,7 @@ section {
 }
 
 .hab-3::after {
-    width: 70%;
+    width: 80%;
 }
 
 .hab-4::after {
